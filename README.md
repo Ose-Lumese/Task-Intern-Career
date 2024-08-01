@@ -16,4 +16,4 @@ Description: The Terrorism Database contains information about terrorist attacks
 
 Task: To create a Power BI dashboard that provides a comprehensive overview of global terrorism trends and patterns.
 
-Utilized Power BI and PowerPoint (Background Creation).S
+Utilized Power BI and PowerPoint (Background Creation).
